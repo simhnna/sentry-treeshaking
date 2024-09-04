@@ -1,0 +1,28 @@
+No replay integration
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+chunk-II2LQKX2.js     | -             | 296.92 kB |                83.35 kB
+polyfills-SCHOHYNV.js | polyfills     |  34.52 kB |                11.29 kB
+main-5SGKD4OO.js      | main          |  19.30 kB |                 5.33 kB
+styles-5INURTSO.css   | styles        |   0 bytes |                 0 bytes
+
+                      | Initial total | 350.74 kB |                99.98 kB
+
+Lazy chunk files      | Names         |  Raw size | Estimated transfer size
+chunk-EE3AYXGR.js     | sentry        | 849 bytes |               849 bytes
+
+
+With replay integration
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+chunk-5DIU2UCZ.js     | -             | 213.31 kB |                59.12 kB
+chunk-26BSX27O.js     | -             | 208.05 kB |                59.22 kB
+polyfills-SCHOHYNV.js | polyfills     |  34.52 kB |                11.29 kB
+main-6QWHRXFC.js      | main          |  19.32 kB |                 5.32 kB
+styles-5INURTSO.css   | styles        |   0 bytes |                 0 bytes
+
+                      | Initial total | 475.21 kB |               134.95 kB
+
+Lazy chunk files      | Names         |  Raw size | Estimated transfer size
+chunk-A5TNYZSY.js     | sentry        |   1.01 kB |                 1.01 kB
+chunk-HPEDPCRC.js     | index         |  96 bytes |                96 bytes
